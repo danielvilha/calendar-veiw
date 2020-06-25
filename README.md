@@ -4,6 +4,11 @@
 
 A calendar that allows you to select both a single date and a period. Calendar allows you to change colors programmatically without reference to the theme.
 
+--- | --- | --- | ---
+![Menu](images/sample_01.png) | ![Menu](images/sample_02.png) | ![Menu](images/sample_03.png) | ![Menu](images/sample_04.png)
+--- | --- | --- | --- | ---
+![Menu](images/sample_05.png) | ![Menu](images/sample_06.png) | ![Menu](images/sample_07.png) | ![Menu](images/sample_08.png) | ![Menu](images/sample_09.png)
+
 <img src="/images/sample_01.png" alt="Demo Screen Capture" width="250px" />
 <img src="/images/sample_02.png" alt="Calendar Screen Capture" width="250px" />
 <img src="/images/sample_03.png" alt="Calendar select Screen Capture" width="250px" />
