@@ -3,23 +3,9 @@
 [![](https://jitpack.io/v/danielvilha/calendarview.svg)](https://jitpack.io/#danielvilha/calendarview)
 
 A calendar that allows you to select both a single date and a period. Calendar allows you to change colors programmatically without reference to the theme.
-
 Sample 01 | Sample 02 | Sample 03 | Sample 04
 --- | --- | --- | ---
 ![Sample 01](images/sample_01.png) | ![Sample 02](images/sample_02.png) | ![Sample 03](images/sample_03.png) | ![Sample 04](images/sample_04.png)
-Sample 05 | Sample 06 | Sample 07 | Sample 08 | Sample 09
---- | --- | --- | --- | ---
-![Sample 05](images/sample_05.png) | ![Sample 06](images/sample_06.png) | ![Sample 07](images/sample_07.png) | ![Sample 08](images/sample_08.png) | ![Sample 09](images/sample_09.png)
-
-<img src="/images/sample_01.png" alt="Demo Screen Capture" width="250px" />
-<img src="/images/sample_02.png" alt="Calendar Screen Capture" width="250px" />
-<img src="/images/sample_03.png" alt="Calendar select Screen Capture" width="250px" />
-<img src="/images/sample_04.png" alt="Calendar date Screen Capture" width="250px" />
-<img src="/images/sample_05.png" alt="Calendar confirm Screen Capture" width="250px" />
-<img src="/images/sample_06.png" alt="Demo check Screen Capture" width="250px" />
-<img src="/images/sample_07.png" alt="Calendar Screen Capture" width="250px" />
-<img src="/images/sample_08.png" alt="Calendar select Screen Capture" width="250px" />
-<img src="/images/sample_09.png" alt="Demo check Screen Capture" width="250px" />
 
 ## Installation
 Step 1. Add the JitPack repository to your build file
