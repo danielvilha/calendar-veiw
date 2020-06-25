@@ -1,6 +1,6 @@
 # Calendar Veiw
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![](https://jitpack.io/v/danielvilha/calendarview.svg)](https://jitpack.io/#danielvilha/calendarview)
+[![](https://jitpack.io/v/danielvilha/calendar-veiw.svg)](https://jitpack.io/#danielvilha/calendar-veiw)
 [![](https://jitci.com/gh/danielvilha/calendar-veiw/svg)](https://jitci.com/gh/danielvilha/calendar-veiw)
 
 A calendar that allows you to select both a single date and a period. Calendar allows you to change colors programmatically without reference to the theme.
