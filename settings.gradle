@@ -1,0 +1,2 @@
+include ':app', ':calendar-veiw-calendar-veiw'
+rootProject.name = "calendar-veiw"
